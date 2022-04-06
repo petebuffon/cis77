@@ -6,9 +6,11 @@
 ## Volatility3
 
 ### setup
+```
 git clone https://github.com/petebuffon/cis77
 cd cis77
 cp ~/Downloads/challenge.mem ./
+```
 
 ### install and isolate volatility3 using a container (podman or docker)
 
